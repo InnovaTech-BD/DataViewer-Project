@@ -7,8 +7,13 @@ from google.oauth2 import service_account
 
 import pandas as pd
 import numpy as np
+import logging
+import sys
 
 app = Flask(__name__)
+
+app.logger.addHandler(logging.StreamHandler(sys.stdout))
+app.logger.setLevel(logging.ERROR)
 
 if __name__ == '__main__':
     app.run(debug=True)
