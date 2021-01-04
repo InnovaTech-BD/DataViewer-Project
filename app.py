@@ -2,11 +2,8 @@ from __future__ import print_function
 from flask import Flask, render_template
 from IPython.display import HTML
 from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
 from google.oauth2 import service_account
-import pickle
-import os.path
+
 
 import pandas as pd
 import numpy as np
