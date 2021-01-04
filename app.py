@@ -60,14 +60,14 @@ dataframe = pd.DataFrame(data=datarows, columns=columns)
 dd = HTML(dataframe.to_html(classes='table table-striped table-hover'))
 
 
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+
 @app.route("/order")
 def order():
     return render_template('order.html', title='Orders', data=dd)
-
-
-@app.route("/")
-def index():
-    return render_template('index.html')
 
 
 @app.route("/customer_list")
