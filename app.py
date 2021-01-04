@@ -55,10 +55,8 @@ for i in range(numRows):
 
 dataframe = pd.DataFrame(data=datarows, columns=columns)
 
-print(dataframe)
 
 dd = HTML(dataframe.to_html(classes='table table-striped table-hover'))
-print(dd)
 
 
 @app.route("/order")
