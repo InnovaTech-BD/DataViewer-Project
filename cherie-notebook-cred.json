@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cherie-data",
+  "private_key_id": "48a01ce6d7b0b212c013a566c529f59a0971eb94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhpcNC0xgqvq3c\n/ijEluZQmJqB+71Co7W5y8KNSIe2rb24k0Xi3CAVd2ZSEjyZJ8nnJFcwOoI1vaMJ\nd8R56EXeZDmTVhka5Xn8t0elGSmvPIDBXNwbH3b3zmhAQONiGJXIOvS1DXhf5MF/\nUHbO5CIgfyp/aQcS3UiPpZQ15Qjw+uCHmTDAz8sCqx91UusuxNMOBNYvzdztKmDx\n/U4l/IDbwFE5/D6o7LSP/FnZMV90LsQg+9Hjul189P041DQc8akinrerSrOazQ22\nFrs6KSuGvZNQ1FysCeVMBKfk8R3E4ySSdxT/ZqJkxoaOoU9d6LpF+fVfpFKUavMf\nXmRP1lmJAgMBAAECggEAKxKXSUQ+Urp/ObYSViRv5maa58EECZpyb/rjMlDsBwT3\nOCp0pq9aOH7IO1Zb1uhvc/3N3tjsThHa8023ZYXfAGqlSuiedjHjrUfXFz7MZDTq\nZv6wzUSeUwNFhy5buTf0L3qBh6YAml1ySjkz1J5bnVRo6lVEEmfHGBSFTBxiLo15\nRqXrAovsfpJh7KG7ftstidVbtFAyDteOC8LurMA15b03e1HUog/li1vL1GLfpm9R\njaWxSqhlNNkD+zA7mM6qKVtdowDUtmMHpURkEQ5ML8bWI2HNwjF6dfA9ulR+fnAs\n8n/xnGJ3ugMVda61660wjjG4bAvAqT5hlZ9G69E0YQKBgQD58xh8mZvO77eDgmsM\nEEUuXQhbnqruIxlOzF8y57tVyF7zJmL5+ng28iDhIxA3oT0A3haTlQArtTt0Fgwx\nwjz2725n+d2wCaOn0jQz0lRfog3WF+/RQk+BWJ7OWqiRMsHBUMnIBgjkdq2bHqZ0\n9aCa7BB/P2w1Dj1A62rDWh4MVQKBgQDnHBIAov0paUpIb72sRoL9xPC9+xljnYu2\nMofVQ5kRFoJJ+GVqF1c8WldAjjYHGKoj6WcrEIY4OKN1fJJBcV/LCtgXvOq1FaYF\nVjGnqudPovowBMsldphI3m3BbB2PAeOZopMQZSBEU0s65winXPaMuLGfwO/dP3nN\nya/Xk0mMZQKBgC71zl7ymURq42aw5R3SHL1WO1DDYcf2DjYwzZ4JzbeTOsuiJaxj\ns5xXJ3hFFzHseEKmd0VpFCwiE7Z+wfHDVaLrXynn1w/Q78+C/c3SsYl6L/FOc/8z\n3y4lEUkh3VPSXnbMj+ylvZv29C0VuB53W6JfwcW2i8T4FOgSku97CfQ1AoGBAKzd\nNin7v9jFxKZBzmGZrEkckeXId8knAmWZjjhag5dgervRbCnao4mlGTZUKN1N+ZU6\n88wmY/6RftJWBx+kKb65scCvse8Y7kF3o1SCZNoQUYqxSzIObwGyPe47bDCXfSJh\nlBbjTStOEitQvAxTYKcJTvLrYX7gB7+BaGGa7ZxxAoGBAO4wPkYFb+5VEvMfz9RI\nh4L87sS3kva4+EmLg1+I7BLZijJcZPyGbkWblyvEJBF0Cd//hl/OpWDbKx3Ajy1+\nCw6SFplmRfPUbWHs/xMi/SffuGTYAM4qAj4owPGuYDLKe+zz3vd737csvY/Vmsm5\n5Ag9smaz4XrJ66Wor7VV3EAF\n-----END PRIVATE KEY-----\n",
+  "client_email": "cherie-dummy@cherie-data.iam.gserviceaccount.com",
+  "client_id": "109207282768231761030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cherie-dummy%40cherie-data.iam.gserviceaccount.com"
+}
