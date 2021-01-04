@@ -11,7 +11,6 @@ import numpy as np
 app = Flask(__name__)
 
 arr = np.arange(4, 2, 4)
-print(arr)
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
@@ -30,7 +29,6 @@ sheet = service.spreadsheets()
 
 result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID, range=SAMPLE_RANGE_NAME).execute()
 
-print(result)
 
 data = result['values']
 numRows = len(data)
