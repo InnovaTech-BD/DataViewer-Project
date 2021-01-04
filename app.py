@@ -10,6 +10,9 @@ import numpy as np
 
 app = Flask(__name__)
 
+if __name__ == '__main__':
+    app.run(debug=True)
+
 arr = np.arange(4, 2, 4)
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
@@ -72,5 +75,4 @@ def customer_list():
     return render_template('customer_list.html', title='Customers List')
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
